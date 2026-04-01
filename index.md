@@ -30,3 +30,31 @@ Postdoctral Researcher at Hiroshima University
 
 ## Publications
 
+2026
+Genome-wide variation reveal that goats were introduced into Asia via multiple migrations
+Takahiro Yonezawa, Jiaqi Wu, Ryo Masuko, Kenta Iso, Yuto Nomura, Risa Tabata, Maho Masaoka, Ayin, Fuki Kawaguchi, Shinji Sasazaki, Aisaku Arakawa, Koh Nomura, Yukimizu Takahashi, Eiji Kobayashi, Manoj Kumar Shah, Muhammad Omar Faruque, Joseph S Masangkay, Meirat Bakhtin, Polat Kazymbet, Tashi Dorji, Muhammad Ihsan Andi Dagong, Sri Rachma Aprilita Bugiwati, Johannes A Lenstra, Hideyuki Mannen
+Sci Rep 16, 163, 2026
+
+2025
+Comprehensive Phylogeographic Analysis Using mtDNA, SRY, and SNPs Markers Revealed Genetic Influence on Kyrgyzstan Goats via the Eurasian Steppe and the Oasis Routes 
+Ryo Masuko, Yuka Katayama, Mari Inoue, Maho Masaoka, Fuki Kawaguchi, Shinji Sasazaki, Sanjar Sultankulov, Asankadyr Zhunushov, Takahiro Yonezawa, Masahide Nishibori …
+Animal Science Journal, 96(1), Nov, 2025 
+
+Maternal and paternal lineage analysis of Island Southeast Asian goats reveals continental propagation routes and introgression through the Indian ocean
+Ryo Masuko, Ayin, Maho Masaoka, Fuki Kawaguchi, Shinji Sasazaki, Muhammad I A Dagong, Sri R A Bugiwati, Joseph S Masangkay, Takahiro Yonezawa, Hideyuki Mannen
+Scientific reports, 15(1) 9411-9411, Mar 19, 2025  
+
+2024
+Maternal genetic phylogeography analysis of Kyrgyz native cattle
+Ayin, Ryo Masuko, Naho Kakutani, Fuki Kawaguchi, Shinji Sasazaki, Sanjar Sultankulov, Asankadyr Zhunushov, Masahide Nishibori, Takahiro Yonezawa, Hideyuki Mannen
+Animal science journal, 95(1) e13999, 2024  
+
+2023
+Identification of TGFβ signaling pathway showing heat stress-responsive activation associated with heat stress tolerance for growth rate in small intestine of finishing pig
+Ryo MASUKO, Takahisa YAMADA, Shin SUKEGAWA, Takeshi OHTA, Nami MINATO, Makoto YAMAZAKI, Hiroaki INOUE, Takashi FUJII, Hiroaki IWAISAKI
+The Journal of Animal Genetics/Volume 51 (2023) Issue 2　Pages 49-55, 2023
+
+2022
+Identification of PPARGC1A-regulated oxidative phosphorylation pathway showing heat stress-responsive activation associated with low heat stress tolerance for growth rate in skeletal muscle tissue of finishing pig
+Ryo MASUKO, Shin SUKEGAWA, Takeshi OHTA, Takahisa YAMADA  , Makoto YAMAZAKI, Hiroaki INOUE, Takashi FUJII, Satoru OKAMOTO, Hiroaki IWAISAKI
+The Journal of Animal Genetics, Volume 50 (2022) Issue 2　Pages 49-54, 2022
