@@ -1,0 +1,14 @@
+---
+---
+@import "minima";
+
+/* サイトタイトルの色を濃いグレーに変更 */
+.site-title, .site-title:visited {
+  color: #333333 !important;
+  text-decoration: none;
+}
+
+/* マウスを重ねた時は少しだけ黒くする */
+.site-title:hover {
+  color: #000000 !important;
+}
