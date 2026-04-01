@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-# 増子　諒 (Ryo Masuko)
+# Ryo Masuko
 
-広島大学 研究員
+Postdoctral Researcher at Hiroshima University
 
 ## About Me
 
@@ -15,8 +15,8 @@ title: Home
 * **所属:** 広島大学
 * **学位:** 博士（農学）
 * **連絡先:** masukoryo[at]hiroshima-u.ac.jp; ryo.masuko26[at]gmail.com
-* [at]を@に置き換えてください
-* [Researchmap](https://researchmap.jp/masuko_ryo) / [ResearchGate]([リンクURL](https://www.researchgate.net/profile/Ryo-Masuko?ev=hdr_xprf)) / [LinkedIn](https://www.linkedin.com/in/%E8%AB%92-%E5%A2%97%E5%AD%90-83a0a42b0/)
+[at]を@に置き換えてください
+* [Researchmap](https://researchmap.jp/masuko_ryo) / [ResearchGate](https://www.researchgate.net/profile/Ryo-Masuko?ev=hdr_xprf) / [LinkedIn](https://www.linkedin.com/in/%E8%AB%92-%E5%A2%97%E5%AD%90-83a0a42b0/)
 
 ---
 
