@@ -12,3 +12,8 @@
 .site-title:hover {
   color: #000000 !important;
 }
+
+/* フッター領域を完全に非表示にする */
+.site-footer {
+  display: none !important;
+}
