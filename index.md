@@ -9,9 +9,9 @@ Postdoctral Researcher at Hiroshima University
 
 ## About Me
 
-現在、ヤギの遺伝的多様性や伝播経路の推定に取り組んでいます。特にミトコンドリアDNAやSRY遺伝子を用いた系統解析、SNP解析を中心としたアプローチで、家畜の進化と人類の移動の歴史を紐解く研究を行っています。
+家畜ヤギの遺伝的多様性や伝播経路の推定に取り組んでいます。特にミトコンドリアDNAやSRY遺伝子を用いた系統解析、SNP解析を中心としたアプローチで、家畜の進化と人類の移動の歴史を紐解く研究を行っています。
 
-* **専門分野:** 家畜遺伝学、系統地理学、分子進化
+* **専門分野:** 動物遺伝育種学、系統地理学、分子進化
 * **所属:** 広島大学
 * **学位:** 博士（農学）
 * **連絡先:** masukoryo[at]hiroshima-u.ac.jp; ryo.masuko26[at]gmail.com<br>[at]を@に置き換えてください
@@ -21,9 +21,7 @@ Postdoctral Researcher at Hiroshima University
 
 ## Research Interests
 
-* ヤギのミトコンドリアDNAおよびSRY遺伝子に基づく系統解析
-* 核ゲノムSNPデータを用いた集団遺伝学解析
-* 家畜の家畜化と伝播経路の解明
+* 家畜化と伝播経路の解明
 
 ---
 
