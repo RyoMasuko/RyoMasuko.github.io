@@ -30,11 +30,15 @@ Postdoctral Researcher at Hiroshima University
 2026<br>
 Genome-Wide Diversity of Goats From Indonesia and the Philippines Reveals Local Ancestry With Different Levels of Cosmopolitan Admixture, Genome Biology and Evolution
 Ryo Masuko, Ayin, Maho Masaoka, Fuki Kawaguchi, Shinji Sasazaki, Muhammad I A Dagong, Sri R A Bugiwati, Joseph S Masangkay, Jiaqi Wu, Takahiro Yonezawa, Johannes A Lenstra, Hideyuki Mannen
-Volume 18, Issue 7, July 2026, evag177
+Volume 18, Issue 7, July 2026, evag177.
 
 Genome-wide variation reveal that goats were introduced into Asia via multiple migrations
 Takahiro Yonezawa, Jiaqi Wu, Ryo Masuko, Kenta Iso, Yuto Nomura, Risa Tabata, Maho Masaoka, Ayin, Fuki Kawaguchi, Shinji Sasazaki, Aisaku Arakawa, Koh Nomura, Yukimizu Takahashi, Eiji Kobayashi, Manoj Kumar Shah, Muhammad Omar Faruque, Joseph S Masangkay, Meirat Bakhtin, Polat Kazymbet, Tashi Dorji, Muhammad Ihsan Andi Dagong, Sri Rachma Aprilita Bugiwati, Johannes A Lenstra, Hideyuki Mannen
-Sci Rep 16, 163, 2026
+Sci Rep 16, 163, 2026.
+
+Inference of Genetic Structure and the Process of Population Formation in Nepalese Native Goats Using Uniparental and Genome-Wide Markers
+Ryo Masuko, Yuka Katayama, Yuto Nomura, Fuki Kawaguchi, Shinji Sasazaki, Manoj Kumar Shah, Jiaqi Wu, Takahiro Yonezawa, Hideyuki Mannen
+Animals (Basel). 2026 Aug 23;16(17):2641.
 
 2025<br>
 Comprehensive Phylogeographic Analysis Using mtDNA, SRY, and SNPs Markers Revealed Genetic Influence on Kyrgyzstan Goats via the Eurasian Steppe and the Oasis Routes 
